@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sharonportfolio/static/css/main.ead200f8.css",
+    "main.js": "/sharonportfolio/static/js/main.2d72b46a.js",
+    "static/js/453.ed3810f9.chunk.js": "/sharonportfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/main.png": "/sharonportfolio/static/media/main.df4526da312bb1d708d6.png",
+    "index.html": "/sharonportfolio/index.html",
+    "main.ead200f8.css.map": "/sharonportfolio/static/css/main.ead200f8.css.map",
+    "main.2d72b46a.js.map": "/sharonportfolio/static/js/main.2d72b46a.js.map",
+    "453.ed3810f9.chunk.js.map": "/sharonportfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead200f8.css",
+    "static/js/main.2d72b46a.js"
+  ]
+}
