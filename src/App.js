@@ -6,7 +6,7 @@ function App() {
     <div id="header">
       <div class="container">
         <nav>
-          <img class="logo" src="/logo.jpg" alt="no image" />
+          <img class="logo" src="../public/logo.jpg" alt="no image" />
           {/* <img src="../../public/logo.jpg" alt="" /> */}
           <ul id = "sidemenu">
             <li><a href="#header">Home</a></li>
